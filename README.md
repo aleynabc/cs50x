@@ -31,33 +31,34 @@ E�er şu anda CS50'yi alıyorsan, lütfen bu kodu kendi ödevin olarak kopyala
 
 | Konu | Klasör | Açıklama |
 |---|---|---|
-| 🔤 C Temelleri | [Mario'suz](./Mario'suz) | Yarım piramit çizen konsol programı |
-| 🔤 C Temelleri | [mario-more](./mario-more) | İki taraflı (dolu) piramit çizen konsol programı |
-| 🔤 C Temelleri | [peşin](./peşin) | Verilen tutarı en az sayıda madeni parayla ödeyen hesap makinesi |
-| 🔤 C Temelleri | [Ben](./Ben) | Kendi C fonksiyonlarını (string işlemleri vb.) yazma alıştırması |
-| 🔢 Diziler | [Sezar](./Sezar) | Sezar şifreleme algoritmasıyla metin şifreleme |
-| 🔢 Diziler | [okunabilirlik](./okunabilirlik) | Metnin Coleman-Liau formülüyle okunabilirlik seviyesini hesaplama |
-| 🧮 Algoritmalar | [çoğulluk](./çoğulluk) | Basit çoğunluk esaslı oylama sistemi simülasyonu |
-| 🧮 Algoritmalar | [akıntı](./akıntı) | Anlık runoff (ikinci tur) oylama sistemi simülasyonu |
-| 💾 Bellek Yönetimi | [filtresiz](./filtresiz) | BMP görsellere gri tonlama, bulanıklaştırma gibi filtreler uygulama |
-| 💾 Bellek Yönetimi | [iyileşmek](./iyileşmek) | Bir bellek kartı imajından silinmiş JPEG dosyalarını kurtarma |
-| 🗂️ Veri Yapıları | [heceleyici](./heceleyici) | Hash table kullanan yazım denetleyici (spell checker) |
-| 🐍 Python | [DNA](./DNA) | DNA örneklerini STR veritabanıyla eşleştirerek kişi tespiti |
-| 🐍 Python | [duygusal nakit](./duygusal%20nakit) | Python ile yazılan para üstü hesap makinesi |
-| 🐍 Python | [duygusal-merhaba](./duygusal-merhaba) | Python'da temel giriş/çıkış ve fonksiyon alıştırması |
-| 🐍 Python | [duygusuz Mario](./duygusuz%20Mario) | Mario piramidinin Python ile yazılmış versiyonu |
-| 🐍 Python | [duygusal okunabilirlik](./duygusal%20okunabilirlik) | Okunabilirlik hesaplayıcısının Python versiyonu |
-| 🗄️ SQL | [filmler](./filmler) | SQL sorgularıyla film veritabanında arama yapma |
-| 🗄️ SQL | [şarkılar](./şarkılar) | Spotify şarkı verileriyle SQL sorgu alıştırmaları |
-| 🗄️ SQL | [elliville](./elliville) | SQL sorgularıyla kurgusal bir suçun failini bulma |
-| 🗄️ SQL | [dünya](./dünya) | Dünya ülkeleri/nüfus veritabanı üzerinde SQL sorguları |
-| 🌐 Web | [ana sayfa](./ana%20sayfa) | HTML/CSS ile kişisel bir tanıtım sayfası |
-| 🌐 Web | [önemsiz bilgiler](./önemsiz%20bilgiler) | JavaScript ile basit bir bilgi yarışması uygulaması |
-| 🌐 Web | [hacim](./hacim) | JavaScript ile ses seviyesi kontrollü web uygulaması |
-| 🌐 Web | [scrabble](./scrabble) | JavaScript ile Scrabble puan hesaplayıcı |
-| ⚙️ Flask ve Uygulamalar | [finans](./finans) | Flask ile gerçek zamanlı hisse senedi alım-satım simülasyonu |
-| ⚙️ Flask ve Uygulamalar | [miras](./miras) | Flask ve SQL ile miras/varis takip web uygulaması |
-| 🔊 Ses/Görüntü İşleme | [düzenlemek](./düzenlemek) | Farklı algoritmalarla (bubble, selection, merge sort) sıralama karşılaştırması |
+| 🔤 C Fundamentals | mario-less | Yarım piramit çizen konsol programı |
+| 🔤 C Fundamentals | mario-more | İki taraflı (dolu) piramit çizen konsol programı |
+| 🔤 C Fundamentals | cash | Verilen tutarı en az sayıda madeni parayla ödeyen hesap makinesi |
+| 🔤 C Fundamentals | me | Kendi C fonksiyonlarını (string işlemleri vb.) yazma alıştırması |
+| 🔢 Arrays | caesar | Sezar şifreleme algoritmasıyla metin şifreleme |
+| 🔢 Arrays | readability | Metnin Coleman-Liau formülüyle okunabilirlik seviyesini hesaplama |
+| 🧮 Algorithms | plurality | Basit çoğunluk esaslı oylama sistemi simülasyonu |
+| 🧮 Algorithms | runoff | Anlık runoff (ikinci tur) oylama sistemi simülasyonu  |
+| 💾 Memory | filter-less | BMP görsellere gri tonlama, bulanıklaştırma gibi filtreler uygulama |
+| 💾 Memory | recover | Bir bellek kartı imajından silinmiş JPEG dosyalarını kurtarma |
+| 🗂️ Data Structures | speller | Hash table kullanan yazım denetleyici (spell checker) |
+| 🐍 Python | dna | DNA örneklerini STR veritabanıyla eşleştirerek kişi tespiti |
+| 🐍 Python | sentimental-cash | Python ile yazılan para üstü hesap makinesi |
+| 🐍 Python | sentimental-hello | Python'da temel giriş/çıkış ve fonksiyon alıştırması |
+| 🐍 Python | sentimental-mario-less | Mario piramidinin Python ile yazılmış versiyonu |
+| 🐍 Python | sentimental-readability | Okunabilirlik hesaplayıcısının Python versiyonu |
+| 🗄️ SQL | movies | SQL sorgularıyla film veritabanında arama yapma |
+| 🗄️ SQL | songs | Spotify şarkı verileriyle SQL sorgu alıştırmaları |
+| 🗄️ SQL | fiftyville | SQL sorgularıyla kurgusal bir suçun failini bulma |
+| 🗄️ SQL | world | Dünya ülkeleri/nüfus veritabanı üzerinde SQL sorguları |
+| 🌐 Web (HTML/CSS/JS) | homepage | HTML/CSS ile kişisel bir tanıtım sayfası |
+| 🌐 Web (HTML/CSS/JS) | trivia | JavaScript ile basit bir bilgi yarışması uygulaması |
+| 🌐 Web (HTML/CSS/JS) | volume | JavaScript ile ses seviyesi kontrollü web uygulaması |
+| 🌐 Web (HTML/CSS/JS) | scrabble | JavaScript ile Scrabble puan hesaplayıcı |
+| ⚙️ Flask & Apps | finance | Flask ile gerçek zamanlı hisse senedi alım-satım simülasyonu|
+| ⚙️ Flask & Apps | inheritance | Flask ve SQL ile miras/varis takip web uygulaması |
+| 🔊 Audio/Image Processing | sort | Farklı algoritmalarla (bubble, selection, merge sort) sıralama karşılaştırması |
+
 
 ### 🎓 Sertifika
 
