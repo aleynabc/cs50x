@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+        <script>
+            // TODO: Add code to check answers to questions
+        </script>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <h3>What is the capital of France?</h3>
+                <button class="choice">Paris</button>
+                <button class="choice">İstanbul</button>
+                <button class="choice">Ankara</button>
+                <p id="feedback"1></p>
+            </div>
+
+            <script>
+
+                const choices = document.querySelectorAll('.choice');
+                const feedback1 = document.getElementById('feedback1');
+
+                choices.forEach(button => {
+
+                    button.addEventListener('click',() => {
+                        if (button.textContent == 'Paris'){
+                            button.style.backgroundColor = 'green';
+                            feedback1.textContent = 'Correct!';
+
+                        } else{
+                            button.style.backgroundColor = 'red';
+                            feedback1.textContent = 'Incorrect';
+                        }
+                    });
+                });
+            </script>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <h3>What is 5(4-2) + 4(3+1) = ? </h3>
+                <input type="text" id="answer2">
+                <button id = "submit2">Submit</button>
+                <p id="feedback2"></p>
+            </div>
+            <script>
+
+                const submit2 = document.getElementById('submit2');
+                const answer2 = document.getElementById('answer2');
+                const feedback2 = document.getElementById('feedback2');
+
+                submit2.addEventListener('click', () => {
+
+                    if (answer2.value.trim() == '26'){
+                        answer2.style.backgroundColor ='green';
+                        feedback2.textContent = 'Correct!';
+                    } else {
+                        answer2.style.backgroundColor = 'red';
+                        feedback2.textContent = 'Incorrect';
+                    }
+
+                });
+            </script>
+
+        </div>
+    </body>
+</html>

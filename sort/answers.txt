@@ -1,0 +1,8 @@
+sort1 uses: bubble sort
+How do you know?: It repeatedly compares adjacent elements and swaps them many times, resulting in the slowest performance on large unsorted inputs.
+
+sort2 uses: merge sort
+How do you know?: It divides the list into smaller sublists and merges them in sorted order, resulting in the fastest performance.
+
+sort3 uses: selection sort
+How do you know?: It repeatedly selects the smallest element from the unsorted portion and swaps it into place, performing fewer swaps than bubble sort.
