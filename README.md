@@ -47,6 +47,9 @@ Eğer şu anda CS50'yi alıyorsan, lütfen bu kodu kendi ödevin olarak kopyalam
 
 Harvard University — CS50x: Introduction to Computer Science ([edX profilimden görüntüle](https://profile.edx.org/u/aleynabc))
 
+## 📄 Lisans
+Bu proje, MIT Lisansı kapsamında lisanslanmıştır.
+
 ---
 
 ## 🇬🇧 English
@@ -79,6 +82,10 @@ If you are currently enrolled in CS50, please do not copy this code as your own 
 ### 🎓 Certificate
 
 Harvard University — CS50x: Introduction to Computer Science ([view on edX profile](https://profile.edx.org/u/aleynabc))
+
+## 📄 License
+
+This project is licensed under the MIT License.
 
 ---
 
