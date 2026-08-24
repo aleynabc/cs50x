@@ -32,16 +32,16 @@ Eğer şu anda CS50'yi alıyorsan, lütfen bu kodu kendi ödevin olarak kopyalam
 
 | Konu | Klasörler |
 |---|---|
-| 🔤 **C Temelleri** | [`mario-less`](./mario-less) · [`mario-more`](./mario-more) · [`cash`](./cash) · [`me`](./me) |
-| 🔢 **Diziler** | [`caesar`](./caesar) · [`readability`](./readability) |
-| 🧮 **Algoritmalar** | [`plurality`](./plurality) · [`runoff`](./runoff) |
-| 💾 **Bellek Yönetimi** | [`filter-less`](./filter-less) · [`recover`](./recover) |
-| 🗂️ **Veri Yapıları** | [`speller`](./speller) |
+| 🔤 **C Fundamentals** | [`mario-less`](./mario-less) · [`mario-more`](./mario-more) · [`cash`](./cash) · [`me`](./me) |
+| 🔢 **Arrays** | [`caesar`](./caesar) · [`readability`](./readability) |
+| 🧮 **Algorithms** | [`plurality`](./plurality) · [`runoff`](./runoff) |
+| 💾 **Memory** | [`filter-less`](./filter-less) · [`recover`](./recover) |
+| 🗂️ **Data Structures** | [`speller`](./speller) |
 | 🐍 **Python** | [`dna`](./dna) · [`sentimental-cash`](./sentimental-cash) · [`sentimental-hello`](./sentimental-hello) · [`sentimental-mario-less`](./sentimental-mario-less) · [`sentimental-readability`](./sentimental-readability) |
 | 🗄️ **SQL** | [`movies`](./movies) · [`songs`](./songs) · [`fiftyville`](./fiftyville) · [`world`](./world) |
 | 🌐 **Web (HTML/CSS/JS)** | [`homepage`](./homepage) · [`trivia`](./trivia) · [`volume`](./volume) · [`scrabble`](./scrabble) |
-| ⚙️ **Flask & Uygulamalar** | [`finance`](./finance) · [`birthdays`](./birthdays) · [`inheritance`](./inheritance) |
-| 🔊 **Ses/Görüntü İşleme** | [`sort`](./sort) |
+| ⚙️ **Flask & Apps** | [`finance`](./finance) · [`birthdays`](./birthdays) · [`inheritance`](./inheritance) |
+| 🔊 **Audio/Image Processing** | [`sort`](./sort) |
 
 ### 🎓 Sertifika
 
