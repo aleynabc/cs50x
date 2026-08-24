@@ -25,7 +25,7 @@ Kursu başarıyla tamamladım ve doğrulanmış sertifikamı aldım.
 
 Bu repodaki tüm kod, kursu tamamladıktan sonra portföy ve eğitim amacıyla paylaşılan kendi özgün çalışmamdır.
 
-E�er şu anda CS50'yi alıyorsan, lütfen bu kodu kendi ödevin olarak kopyalama. Bu, CS50'nin Akademik Dürüstlük Politikası'nı ihlal eder. Önce problemleri kendin çözmeyi dene — asıl öğrenme orada gerçekleşir.
+Eğer şu anda CS50'yi alıyorsan, lütfen bu kodu kendi ödevin olarak kopyalama. Bu, CS50'nin Akademik Dürüstlük Politikası'nı ihlal eder. Önce problemleri kendin çözmeyi dene — asıl öğrenme orada gerçekleşir.
 
 ### 📚 İçerik
 
