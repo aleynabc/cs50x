@@ -30,9 +30,18 @@ Eğer şu anda CS50'yi alıyorsan, lütfen bu kodu kendi ödevin olarak kopyalam
 
 ### 📚 İçerik
 
-C, Diziler, Algoritmalar, Bellek Yönetimi, Veri Yapıları, Python, SQL ve Web track haftalarına ait çözümler:
-
-`caesar` · `readability` · `plurality` · `runoff` · `filter-less` · `recover` · `speller` · `mario-less` / `mario-more` · `cash` · `dna` · `finance` · `movies` · `fiftyville` · `homepage` · `inheritance` · `sentimental` laboratuvarları
+| Konu | Klasörler |
+|---|---|
+| 🔤 **C Temelleri** | [`mario-less`](./mario-less) · [`mario-more`](./mario-more) · [`cash`](./cash) · [`me`](./me) |
+| 🔢 **Diziler** | [`caesar`](./caesar) · [`readability`](./readability) |
+| 🧮 **Algoritmalar** | [`plurality`](./plurality) · [`runoff`](./runoff) |
+| 💾 **Bellek Yönetimi** | [`filter-less`](./filter-less) · [`recover`](./recover) |
+| 🗂️ **Veri Yapıları** | [`speller`](./speller) |
+| 🐍 **Python** | [`dna`](./dna) · [`sentimental-cash`](./sentimental-cash) · [`sentimental-hello`](./sentimental-hello) · [`sentimental-mario-less`](./sentimental-mario-less) · [`sentimental-readability`](./sentimental-readability) |
+| 🗄️ **SQL** | [`movies`](./movies) · [`songs`](./songs) · [`fiftyville`](./fiftyville) · [`world`](./world) |
+| 🌐 **Web (HTML/CSS/JS)** | [`homepage`](./homepage) · [`trivia`](./trivia) · [`volume`](./volume) · [`scrabble`](./scrabble) |
+| ⚙️ **Flask & Uygulamalar** | [`finance`](./finance) · [`birthdays`](./birthdays) · [`inheritance`](./inheritance) |
+| 🔊 **Ses/Görüntü İşleme** | [`sort`](./sort) |
 
 ### 🎓 Sertifika
 
@@ -54,9 +63,18 @@ If you are currently enrolled in CS50, please do not copy this code as your own 
 
 ### 📚 Contents
 
-Solutions covering weeks on C, Arrays, Algorithms, Memory, Data Structures, Python, SQL, and the Web track, including:
-
-`caesar` · `readability` · `plurality` · `runoff` · `filter-less` · `recover` · `speller` · `mario-less` / `mario-more` · `cash` · `dna` · `finance` · `movies` · `fiftyville` · `homepage` · `inheritance` · `sentimental` labs
+| Topic | Folders |
+|---|---|
+| 🔤 **C Fundamentals** | [`mario-less`](./mario-less) · [`mario-more`](./mario-more) · [`cash`](./cash) · [`me`](./me) |
+| 🔢 **Arrays** | [`caesar`](./caesar) · [`readability`](./readability) |
+| 🧮 **Algorithms** | [`plurality`](./plurality) · [`runoff`](./runoff) |
+| 💾 **Memory** | [`filter-less`](./filter-less) · [`recover`](./recover) |
+| 🗂️ **Data Structures** | [`speller`](./speller) |
+| 🐍 **Python** | [`dna`](./dna) · [`sentimental-cash`](./sentimental-cash) · [`sentimental-hello`](./sentimental-hello) · [`sentimental-mario-less`](./sentimental-mario-less) · [`sentimental-readability`](./sentimental-readability) |
+| 🗄️ **SQL** | [`movies`](./movies) · [`songs`](./songs) · [`fiftyville`](./fiftyville) · [`world`](./world) |
+| 🌐 **Web (HTML/CSS/JS)** | [`homepage`](./homepage) · [`trivia`](./trivia) · [`volume`](./volume) · [`scrabble`](./scrabble) |
+| ⚙️ **Flask & Apps** | [`finance`](./finance) · [`birthdays`](./birthdays) · [`inheritance`](./inheritance) |
+| 🔊 **Audio/Image Processing** | [`sort`](./sort) |
 
 ### 🎓 Certificate
 
